@@ -1,0 +1,11 @@
+## Interface: 20504
+## Title: GuildWhiteboard
+## Notes: Shared collaborative drawing canvas for your group or guild.
+## Author: YourName
+## Version: 1.0.0
+## SavedVariables: GuildWhiteboardData
+
+GuildWhiteboard.lua
+Serialize.lua
+Network.lua
+Drawing.lua
